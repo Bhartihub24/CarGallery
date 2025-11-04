@@ -1,4 +1,4 @@
-# # CodeAlpha Car Gallery 🚗
+# # Car Gallery 🚗
 
 A simple and elegant car image gallery project built using **HTML, CSS, and JavaScript** with a lightbox view and image filters.
 
@@ -11,4 +11,4 @@ A simple and elegant car image gallery project built using **HTML, CSS, and Java
 ## 🧑‍💻 Author
 Bharti Baghel
 
-Created as part of **CodeAlpha Internship Program**.
+
